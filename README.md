@@ -55,6 +55,10 @@ Before getting started, make sure you have the following installed:
 Contributions to this project are welcome! Feel free to suggest new features or improvements.
 
 
+## Additional resources
 
+- ReactJS Documentation: `https://react.dev/`
+- NodeJS Documentation: `https://nodejs.org/docs/latest/api/`
+- Tailwind Documentation: `https://tailwindcss.com/docs/guides/vite`
 
 
