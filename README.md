@@ -20,7 +20,8 @@ The Currency Converter is a web app that lets you convert currencies effortlessl
 
 # Demo
 
-![image](https://github.com/saakshikobarne/Currency-convertor/assets/115942356/06e8eb44-f483-4619-bf29-14547ee85a11)
+![image](https://github.com/saakshikobarne/Currency-convertor/assets/115942356/daa2925b-99aa-489a-a9d2-772c968dea01)
+
 
 
 
