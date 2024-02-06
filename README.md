@@ -50,7 +50,7 @@ Before getting started, make sure you have the following installed:
 4. **Close the Application:**
    - When you're finished, you can stop the development server by pressing `Ctrl + C` in the terminal window.
 
-#Contributions
+# Contributions
 
 Contributions to this project are welcome! Feel free to suggest new features or improvements.
 
