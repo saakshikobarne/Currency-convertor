@@ -1,4 +1,4 @@
-# Currency Convertor
+# Currency Convertor- Currency Xchange
 
 The Currency Converter is a web app that lets you convert currencies effortlessly. Built with React.js and Node.js, it fetches real-time exchange rates from APIs, making currency conversion quick and easy. Just select your currencies and enter the amount – it's that simple!
 
